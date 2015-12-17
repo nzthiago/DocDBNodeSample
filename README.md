@@ -1,6 +1,6 @@
 # DocDBNodeSample
 
-https://dxhacks.visualstudio.com/DefaultCollection/_apis/public/build/definitions/508009ff-7eca-4752-ac65-2b8e37507c6b/23/badge
+<img src="https://dxhacks.visualstudio.com/DefaultCollection/_apis/public/build/definitions/508009ff-7eca-4752-ac65-2b8e37507c6b/23/badge"/>
 
 Sample running on Node.js and DocumentDB with included Azure Resource Manager template to create the infrastructure.
 
